@@ -6,6 +6,7 @@ public class LogicalOperators
     {
         boolean isCold = true;
         boolean isRainy = false;
+        //checking conditions
         if(isCold == true && isRainy == true)
         {
             System.out.println("Bring a jacket and an umbrella");
